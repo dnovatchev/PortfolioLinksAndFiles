@@ -13,4 +13,5 @@ A few things created by me that I consider as achievements
 
 6. A recent answer to a StackOverflow question: finding the closest neighbors of a value in a sorted list (C#): https://stackoverflow.com/questions/29196755/binary-search-for-the-closest-value-less-than-or-equal-to-the-search-value/78699628#78699628
 
-In this repository you can also find and downlod my Ppowerpoint presentation of the EFECS Architecture
+In this repository you can also find and downlod my Ppowerpoint presentation of the EFECS Architecture: https://github.com/dnovatchev/PortfolioLinksAndFiles/blob/main/EfecsArchitecture-Final-3.pptx
+
