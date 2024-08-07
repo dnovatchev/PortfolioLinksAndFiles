@@ -13,7 +13,9 @@ A few things created by me that I consider as achievements
 
 6. Dimitre's StackOverflow Profile: https://stackoverflow.com/users/36305/dimitre-novatchev
 
-7. A recent answer to a StackOverflow question: finding the closest neighbors of a value in a sorted list (C#): https://stackoverflow.com/questions/29196755/binary-search-for-the-closest-value-less-than-or-equal-to-the-search-value/78699628#78699628
+7. Pure SQL query for getting all prime numbers less than 1000: https://github.com/dnovatchev/PortfolioLinksAndFiles/blob/main/Primes.sql
+
+8. A recent answer to a StackOverflow question: finding the closest neighbors of a value in a sorted list (C#): https://stackoverflow.com/questions/29196755/binary-search-for-the-closest-value-less-than-or-equal-to-the-search-value/78699628#78699628
 
 In this repository you can also find and downlod my Powerpoint presentation of the EFECS Architecture: https://github.com/dnovatchev/PortfolioLinksAndFiles/blob/main/EfecsArchitecture-Final-3.pptx
 
